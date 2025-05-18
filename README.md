@@ -27,6 +27,10 @@
   <a href="https://goreportcard.com/report/github.com/Calcium-Ion/new-api">
     <img src="https://goreportcard.com/badge/github.com/Calcium-Ion/new-api" alt="GoReportCard">
   </a>
+  <a href="https://deepwiki.com/">
+    <img src="https://img.shields.io/badge/DeepWiki-Documentation-brightgreen" alt="DeepWiki">
+</a>
+
 </p>
 </div>
 
